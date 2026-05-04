@@ -16,26 +16,26 @@ We made key enhancements to improve performance, usability, and scalability. Bui
 ## 🎯 Key Features
 ![Module](https://github.com/netstaffle-tech/DoctorSolve/blob/main/DoctorSolve_Application.png)
 
-## Custom Enhancements
+## ⭐Custom Enhancements
 Added new features and modules as per business requirements.
 
-## Performance Optimization
+## ⭐Performance Optimization
 Improved speed, responsiveness, and overall application performance.
 
-## Secure & Reliable
+## ⭐Secure & Reliable
 Strengthened security and data protection for a reliable platform.
 
-## Selling Drugs
+## ⭐Selling Drugs
 Manage and list pharmaceutical products with details, pricing, stock & availability.
 
-## Database Management
+## ⭐Database Management
 Efficient MySQL structuring and query optimization.
 
-## Bug Fixes & Improvements
+## ⭐Bug Fixes & Improvements
 Resolved issues and improved stability across the application.
 
-## Responsive Design
-Fully responsive for seamless experience on all devices.
+## ⭐Responsive Design
+Fully responsive for a seamless experience on all devices.
     
 *(Customize based on project)*
 
