@@ -14,30 +14,34 @@ DoctorSolve™ is a trusted online Canadian pharmacy. Canadian Online Pharmacy f
 
 
 ## 🧩 Project Overview  
-DentalInsider is a digital platform designed to simplify how patients discover and connect with trusted dental professionals. It enables users to explore clinics, compare services, and make informed decisions through authentic patient feedback and detailed practitioner profiles.
+Custom Solution, Stronger Performance
 
-For dental professionals, DentalInsider acts as a growth tool—enhancing online visibility, strengthening reputation, and attracting patients who are actively seeking care. Dentists can manage and personalize their profiles, while patients benefit from seamless appointment booking and the ability to share their experiences.
-
-Built for both desktop and mobile use, DentalInsider delivers a smooth, user-friendly experience that bridges the gap between quality dental care providers and the people who need them.
+We made key enhancements to improve performance, usability, and scalability. Built on Laravel, PHP, & MySQL for a secure and reliable experience.
 
 
 ## 🎯 Key Features
-![Module](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Application.png)
+![Module](https://github.com/netstaffle-tech/DoctorSolve/blob/main/DoctorSolve_Application.png)
 
-## Smart Discovery of Dental Care
-Patients can quickly find the right dental professionals using intuitive filters like location, treatment type, or     practitioner name, with access to in-depth profiles that highlight expertise, services, and patient experiences.
+## Custom Enhancements
+Added new features and modules as per business requirements.
 
-## Seamless Booking & Honest Feedback 
-An integrated scheduling system enables instant appointment requests, while genuine patient reviews create a transparent environment that helps others make confident decisions.
+## Performance Optimization
+Improved speed, responsiveness, and overall application performance.
 
-## Own and Manage Your Professional Identity
-Verified dentists can take full control of their profiles—updating information, showcasing services, and presenting their practice in a way that reflects their brand.
+## Secure & Reliable
+Strengthened security and data protection for a reliable platform.
 
-## Build Trust Through Visibility
-Comprehensive profiles combined with authentic feedback help dental professionals strengthen credibility and stand out in a competitive market.
+## Selling Drugs
+Manage and list pharmaceutical products with details, pricing, stock & availability.
 
-## Connect with High-Intent Patients
-DentalInsider brings in users who are actively searching for care, helping clinics engage with patients who are ready to take the next step.
+## Database Management
+Efficient MySQL structuring and query optimization.
+
+## Bug Fixes & Improvements
+Resolved issues and improved stability across the application.
+
+## Responsive Design
+Fully responsive for seamless experience on all devices.
     
 *(Customize based on project)*
 
@@ -47,25 +51,14 @@ DentalInsider brings in users who are actively searching for care, helping clini
 - HTML / CSS / Bootstrap / JavaScript  
 
 **Backend:**  
--  PHP / Laravel /Spinx Search
+-  PHP / Laravel
 
 **Database:**  
 - MySQL  
 
 **Tools & Integrations:**  
-- Google Maps API  
-- Payment Gateway (Stripe)  
-
-
-## 💡 Challenges & Solutions  
-
-### ⚠️ Challenge 1  
-  Despite designing a comprehensive and intuitive dental directory, the development process revealed several critical challenges that needed to be addressed. 
-
-✅ **Solution:**  
-Despite designing a comprehensive and intuitive dental directory, the development process revealed several critical challenges that needed to be addressed.
-
-We resolved these by optimizing search performance, implementing profile verification for trust, and building a reliable real-time appointment system—along with UI and performance improvements to ensure a smooth user experience.
+- Google Maps API
+- Tracking
 
 
 ## 🔐 Code Access  
