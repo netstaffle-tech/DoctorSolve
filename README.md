@@ -7,12 +7,6 @@ DoctorSolve™ is a trusted online Canadian pharmacy. Canadian Online Pharmacy f
 
 ---
 
-## 📸 Project Preview  
-
-### 🖥️ Screenshots  
-![Homepage](https://github.com/netstaffle-tech/Dentalinsider/blob/main/Dentalinsider_Laravel_Project.png)
-
-
 ## 🧩 Project Overview  
 Custom Solution, Stronger Performance
 
